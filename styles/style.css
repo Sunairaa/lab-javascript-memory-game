@@ -88,3 +88,19 @@ p {
   font-size: 20px;
   text-align: center;
 }
+
+#myCanvas {
+  position: absolute;
+  
+    left: 39%;
+    /* background-color: rgba(215, 44, 44, 0.8); */
+    border-radius: 8px;
+    font-size: 30px;
+    font-family: Arial;
+    /* width: 200px; */
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -661px;
+    display: block;
+}
